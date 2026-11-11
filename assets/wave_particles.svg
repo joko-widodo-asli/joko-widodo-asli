@@ -1,0 +1,304 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 160" width="100%" height="160">
+<rect width="900" height="160" rx="12" fill="#f8fafc" stroke="#cbd5e1" stroke-width="1.4" />
+<circle cx="0" cy="40" r="2.5" fill="#0284c7" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="3.50s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="25;55;25" dur="2.10s" repeatCount="indefinite" />
+</circle>
+<circle cx="36" cy="40" r="2.5" fill="#0284c7" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="3.60s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="25;55;25" dur="2.10s" repeatCount="indefinite" />
+</circle>
+<circle cx="72" cy="40" r="2.5" fill="#0284c7" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="3.70s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="25;55;25" dur="2.10s" repeatCount="indefinite" />
+</circle>
+<circle cx="108" cy="40" r="2.5" fill="#0284c7" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="3.80s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="25;55;25" dur="2.10s" repeatCount="indefinite" />
+</circle>
+<circle cx="144" cy="40" r="2.5" fill="#0284c7" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="3.90s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="25;55;25" dur="2.10s" repeatCount="indefinite" />
+</circle>
+<circle cx="180" cy="40" r="2.5" fill="#0284c7" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="4.00s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="25;55;25" dur="2.10s" repeatCount="indefinite" />
+</circle>
+<circle cx="216" cy="40" r="2.5" fill="#0284c7" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="4.10s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="25;55;25" dur="2.10s" repeatCount="indefinite" />
+</circle>
+<circle cx="252" cy="40" r="2.5" fill="#0284c7" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="4.20s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="25;55;25" dur="2.10s" repeatCount="indefinite" />
+</circle>
+<circle cx="288" cy="40" r="2.5" fill="#0284c7" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="4.30s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="25;55;25" dur="2.10s" repeatCount="indefinite" />
+</circle>
+<circle cx="324" cy="40" r="2.5" fill="#0284c7" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="4.40s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="25;55;25" dur="2.10s" repeatCount="indefinite" />
+</circle>
+<circle cx="360" cy="40" r="2.5" fill="#0284c7" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="4.50s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="25;55;25" dur="2.10s" repeatCount="indefinite" />
+</circle>
+<circle cx="396" cy="40" r="2.5" fill="#0284c7" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="4.60s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="25;55;25" dur="2.10s" repeatCount="indefinite" />
+</circle>
+<circle cx="432" cy="40" r="2.5" fill="#0284c7" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="4.70s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="25;55;25" dur="2.10s" repeatCount="indefinite" />
+</circle>
+<circle cx="468" cy="40" r="2.5" fill="#0284c7" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="4.80s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="25;55;25" dur="2.10s" repeatCount="indefinite" />
+</circle>
+<circle cx="504" cy="40" r="2.5" fill="#0284c7" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="4.90s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="25;55;25" dur="2.10s" repeatCount="indefinite" />
+</circle>
+<circle cx="540" cy="40" r="2.5" fill="#0284c7" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="5.00s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="25;55;25" dur="2.10s" repeatCount="indefinite" />
+</circle>
+<circle cx="576" cy="40" r="2.5" fill="#0284c7" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="5.10s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="25;55;25" dur="2.10s" repeatCount="indefinite" />
+</circle>
+<circle cx="612" cy="40" r="2.5" fill="#0284c7" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="5.20s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="25;55;25" dur="2.10s" repeatCount="indefinite" />
+</circle>
+<circle cx="648" cy="40" r="2.5" fill="#0284c7" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="5.30s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="25;55;25" dur="2.10s" repeatCount="indefinite" />
+</circle>
+<circle cx="684" cy="40" r="2.5" fill="#0284c7" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="5.40s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="25;55;25" dur="2.10s" repeatCount="indefinite" />
+</circle>
+<circle cx="720" cy="40" r="2.5" fill="#0284c7" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="5.50s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="25;55;25" dur="2.10s" repeatCount="indefinite" />
+</circle>
+<circle cx="756" cy="40" r="2.5" fill="#0284c7" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="5.60s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="25;55;25" dur="2.10s" repeatCount="indefinite" />
+</circle>
+<circle cx="792" cy="40" r="2.5" fill="#0284c7" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="5.70s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="25;55;25" dur="2.10s" repeatCount="indefinite" />
+</circle>
+<circle cx="828" cy="40" r="2.5" fill="#0284c7" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="5.80s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="25;55;25" dur="2.10s" repeatCount="indefinite" />
+</circle>
+<circle cx="864" cy="40" r="2.5" fill="#0284c7" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="5.90s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="25;55;25" dur="2.10s" repeatCount="indefinite" />
+</circle>
+<circle cx="0" cy="80" r="2.5" fill="#7c3aed" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="4.50s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="65;95;65" dur="2.70s" repeatCount="indefinite" />
+</circle>
+<circle cx="36" cy="80" r="2.5" fill="#7c3aed" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="4.60s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="65;95;65" dur="2.70s" repeatCount="indefinite" />
+</circle>
+<circle cx="72" cy="80" r="2.5" fill="#7c3aed" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="4.70s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="65;95;65" dur="2.70s" repeatCount="indefinite" />
+</circle>
+<circle cx="108" cy="80" r="2.5" fill="#7c3aed" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="4.80s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="65;95;65" dur="2.70s" repeatCount="indefinite" />
+</circle>
+<circle cx="144" cy="80" r="2.5" fill="#7c3aed" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="4.90s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="65;95;65" dur="2.70s" repeatCount="indefinite" />
+</circle>
+<circle cx="180" cy="80" r="2.5" fill="#7c3aed" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="5.00s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="65;95;65" dur="2.70s" repeatCount="indefinite" />
+</circle>
+<circle cx="216" cy="80" r="2.5" fill="#7c3aed" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="5.10s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="65;95;65" dur="2.70s" repeatCount="indefinite" />
+</circle>
+<circle cx="252" cy="80" r="2.5" fill="#7c3aed" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="5.20s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="65;95;65" dur="2.70s" repeatCount="indefinite" />
+</circle>
+<circle cx="288" cy="80" r="2.5" fill="#7c3aed" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="5.30s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="65;95;65" dur="2.70s" repeatCount="indefinite" />
+</circle>
+<circle cx="324" cy="80" r="2.5" fill="#7c3aed" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="5.40s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="65;95;65" dur="2.70s" repeatCount="indefinite" />
+</circle>
+<circle cx="360" cy="80" r="2.5" fill="#7c3aed" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="5.50s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="65;95;65" dur="2.70s" repeatCount="indefinite" />
+</circle>
+<circle cx="396" cy="80" r="2.5" fill="#7c3aed" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="5.60s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="65;95;65" dur="2.70s" repeatCount="indefinite" />
+</circle>
+<circle cx="432" cy="80" r="2.5" fill="#7c3aed" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="5.70s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="65;95;65" dur="2.70s" repeatCount="indefinite" />
+</circle>
+<circle cx="468" cy="80" r="2.5" fill="#7c3aed" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="5.80s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="65;95;65" dur="2.70s" repeatCount="indefinite" />
+</circle>
+<circle cx="504" cy="80" r="2.5" fill="#7c3aed" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="5.90s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="65;95;65" dur="2.70s" repeatCount="indefinite" />
+</circle>
+<circle cx="540" cy="80" r="2.5" fill="#7c3aed" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="6.00s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="65;95;65" dur="2.70s" repeatCount="indefinite" />
+</circle>
+<circle cx="576" cy="80" r="2.5" fill="#7c3aed" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="6.10s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="65;95;65" dur="2.70s" repeatCount="indefinite" />
+</circle>
+<circle cx="612" cy="80" r="2.5" fill="#7c3aed" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="6.20s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="65;95;65" dur="2.70s" repeatCount="indefinite" />
+</circle>
+<circle cx="648" cy="80" r="2.5" fill="#7c3aed" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="6.30s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="65;95;65" dur="2.70s" repeatCount="indefinite" />
+</circle>
+<circle cx="684" cy="80" r="2.5" fill="#7c3aed" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="6.40s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="65;95;65" dur="2.70s" repeatCount="indefinite" />
+</circle>
+<circle cx="720" cy="80" r="2.5" fill="#7c3aed" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="6.50s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="65;95;65" dur="2.70s" repeatCount="indefinite" />
+</circle>
+<circle cx="756" cy="80" r="2.5" fill="#7c3aed" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="6.60s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="65;95;65" dur="2.70s" repeatCount="indefinite" />
+</circle>
+<circle cx="792" cy="80" r="2.5" fill="#7c3aed" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="6.70s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="65;95;65" dur="2.70s" repeatCount="indefinite" />
+</circle>
+<circle cx="828" cy="80" r="2.5" fill="#7c3aed" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="6.80s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="65;95;65" dur="2.70s" repeatCount="indefinite" />
+</circle>
+<circle cx="864" cy="80" r="2.5" fill="#7c3aed" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="6.90s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="65;95;65" dur="2.70s" repeatCount="indefinite" />
+</circle>
+<circle cx="0" cy="120" r="2.5" fill="#db2777" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="5.50s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="105;135;105" dur="3.30s" repeatCount="indefinite" />
+</circle>
+<circle cx="36" cy="120" r="2.5" fill="#db2777" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="5.60s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="105;135;105" dur="3.30s" repeatCount="indefinite" />
+</circle>
+<circle cx="72" cy="120" r="2.5" fill="#db2777" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="5.70s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="105;135;105" dur="3.30s" repeatCount="indefinite" />
+</circle>
+<circle cx="108" cy="120" r="2.5" fill="#db2777" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="5.80s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="105;135;105" dur="3.30s" repeatCount="indefinite" />
+</circle>
+<circle cx="144" cy="120" r="2.5" fill="#db2777" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="5.90s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="105;135;105" dur="3.30s" repeatCount="indefinite" />
+</circle>
+<circle cx="180" cy="120" r="2.5" fill="#db2777" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="6.00s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="105;135;105" dur="3.30s" repeatCount="indefinite" />
+</circle>
+<circle cx="216" cy="120" r="2.5" fill="#db2777" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="6.10s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="105;135;105" dur="3.30s" repeatCount="indefinite" />
+</circle>
+<circle cx="252" cy="120" r="2.5" fill="#db2777" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="6.20s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="105;135;105" dur="3.30s" repeatCount="indefinite" />
+</circle>
+<circle cx="288" cy="120" r="2.5" fill="#db2777" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="6.30s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="105;135;105" dur="3.30s" repeatCount="indefinite" />
+</circle>
+<circle cx="324" cy="120" r="2.5" fill="#db2777" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="6.40s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="105;135;105" dur="3.30s" repeatCount="indefinite" />
+</circle>
+<circle cx="360" cy="120" r="2.5" fill="#db2777" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="6.50s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="105;135;105" dur="3.30s" repeatCount="indefinite" />
+</circle>
+<circle cx="396" cy="120" r="2.5" fill="#db2777" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="6.60s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="105;135;105" dur="3.30s" repeatCount="indefinite" />
+</circle>
+<circle cx="432" cy="120" r="2.5" fill="#db2777" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="6.70s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="105;135;105" dur="3.30s" repeatCount="indefinite" />
+</circle>
+<circle cx="468" cy="120" r="2.5" fill="#db2777" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="6.80s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="105;135;105" dur="3.30s" repeatCount="indefinite" />
+</circle>
+<circle cx="504" cy="120" r="2.5" fill="#db2777" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="6.90s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="105;135;105" dur="3.30s" repeatCount="indefinite" />
+</circle>
+<circle cx="540" cy="120" r="2.5" fill="#db2777" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="7.00s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="105;135;105" dur="3.30s" repeatCount="indefinite" />
+</circle>
+<circle cx="576" cy="120" r="2.5" fill="#db2777" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="7.10s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="105;135;105" dur="3.30s" repeatCount="indefinite" />
+</circle>
+<circle cx="612" cy="120" r="2.5" fill="#db2777" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="7.20s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="105;135;105" dur="3.30s" repeatCount="indefinite" />
+</circle>
+<circle cx="648" cy="120" r="2.5" fill="#db2777" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="7.30s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="105;135;105" dur="3.30s" repeatCount="indefinite" />
+</circle>
+<circle cx="684" cy="120" r="2.5" fill="#db2777" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="7.40s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="105;135;105" dur="3.30s" repeatCount="indefinite" />
+</circle>
+<circle cx="720" cy="120" r="2.5" fill="#db2777" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="7.50s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="105;135;105" dur="3.30s" repeatCount="indefinite" />
+</circle>
+<circle cx="756" cy="120" r="2.5" fill="#db2777" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="7.60s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="105;135;105" dur="3.30s" repeatCount="indefinite" />
+</circle>
+<circle cx="792" cy="120" r="2.5" fill="#db2777" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="7.70s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="105;135;105" dur="3.30s" repeatCount="indefinite" />
+</circle>
+<circle cx="828" cy="120" r="2.5" fill="#db2777" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="7.80s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="105;135;105" dur="3.30s" repeatCount="indefinite" />
+</circle>
+<circle cx="864" cy="120" r="2.5" fill="#db2777" opacity="0.8">
+  <animate attributeName="cx" values="0;900" dur="7.90s" repeatCount="indefinite" />
+  <animate attributeName="cy" values="105;135;105" dur="3.30s" repeatCount="indefinite" />
+</circle>
+<text x="450" y="86" text-anchor="middle" fill="#0f172a" font-family="monospace" font-size="14" font-weight="bold" letter-spacing="3">&lt; JOKO // FIRST TO MASTER THE FULL SPECTRUM &gt;</text>
+</svg>
