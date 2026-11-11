@@ -1,23 +1,11 @@
-## Hi there 👋
-
-
-**joko-widodo-asli/joko-widodo-asli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 <div align="center">
 
-<!-- HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,9,20,30&height=220&section=header&text=JOKO%20//%20THE%20OMNI-DEV&fontSize=42&fontAlignY=38&desc=Full-Spectrum%20Architect%20%7C%20Master%20of%20All%20Domains&descAlignY=60&descAlign=50&stroke=00f2fe&strokeWidth=2" width="100%" alt="Header Banner" />
+<!-- INTERACTIVE PARTICLE HERO BANNER (800+ Lines SVG Particle Physics) -->
+<a href="#the-manifesto">
+  <img src="assets/hero_particles.svg" width="100%" alt="Joko The Omni-Dev Particle Hero" />
+</a>
+
+<br /><br />
 
 <!-- TYPING ANIMATION (SLOGAN) -->
 <a href="https://git.io/typing-svg">
@@ -35,11 +23,22 @@ Here are some ideas to get you started:
 
 </div>
 
+<a name="the-manifesto"></a>
 ## 🌌 The Manifesto: "Saya Yang Pertama Menguasai Semuanya"
 
 > *"Batas pemrograman hanyalah ilusi bagi mereka yang berhenti belajar. Dari denyut biner register assembly terkecil hingga orkestrasi klaster komputasi awan global berkapasitas exabyte; dari logika deterministik smart contract hingga probabilitas jaringan syaraf tiruan generasi mutakhir—saya telah menguasai dan menaklukkan semuanya terlebih dahulu."*
 
 Saya adalah **Joko**, seorang **Omni-Developer & Grand Systems Architect**. Tidak ada bahasa yang asing, tidak ada framework yang terlewat, dan tidak ada arsitektur sistem yang tidak dapat dirancang atau dioptimasi.
+
+---
+
+## 🛰️ The Omni-Nexus: Global Interconnected Architecture
+
+Visualisasi jaringan partikel orbital aktif yang menghubungkan seluruh 10 domain keahlian langsung ke inti pemrosesan pusat **JOKO CORE**:
+
+<div align="center">
+  <img src="assets/omni_nexus.svg" width="100%" alt="Omni Nexus Particle Constellation" />
+</div>
 
 ---
 
@@ -129,6 +128,16 @@ Semua ranah rekayasa perangkat lunak tanpa pengecualian dikuasai pada tingkat ar
 
 ---
 
+## ⚡ Live Kernel Stream Matrix
+
+Aliran data biner & simbol matriks bergerak yang memproses sinyal komputasi real-time:
+
+<div align="center">
+  <img src="assets/matrix_rain.svg" width="100%" alt="Real-time Matrix Stream" />
+</div>
+
+---
+
 ## 📊 Live Telemetry & GitHub Analytics
 
 <div align="center">
@@ -205,6 +214,7 @@ Semua ranah rekayasa perangkat lunak tanpa pengecualian dikuasai pada tingkat ar
 
 <br />
 
+<!-- HARMONIC QUANTUM WAVE PARTICLE FOOTER (400 Lines SVG Wave Dynamics) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,20,9,2,0&height=120&section=footer" width="100%" alt="Footer Banner" />
+  <img src="assets/wave_particles.svg" width="100%" alt="Joko Quantum Wave Particles Footer" />
 </div>
